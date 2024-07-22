@@ -1,0 +1,1206 @@
+2024-07-22 22:37:18,635 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 22:37:18,635 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 22:37:18,635 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 22:37:18,635 - INFO - Show menu Entered
+2024-07-22 22:40:31,465 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 22:40:31,465 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 22:40:31,465 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 22:40:31,498 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-22 22:40:31,498 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 22:40:31,503 - INFO -  * Restarting with stat
+2024-07-22 22:40:31,924 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 22:40:31,924 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 22:40:31,924 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 22:40:31,932 - WARNING -  * Debugger is active!
+2024-07-22 22:40:31,939 - INFO -  * Debugger PIN: 126-543-131
+2024-07-22 22:42:06,576 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-22 22:42:06,651 - INFO -  * Restarting with stat
+2024-07-22 22:42:07,205 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 22:42:07,205 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 22:42:07,205 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 22:42:07,213 - WARNING -  * Debugger is active!
+2024-07-22 22:42:07,219 - INFO -  * Debugger PIN: 126-543-131
+2024-07-22 22:56:30,899 - INFO - Decorator Function Entered
+2024-07-22 22:56:30,900 - ERROR - Exception in authentication decorator: tuple index out of range
+2024-07-22 22:56:30,900 - INFO - 127.0.0.1 - - [22/Jul/2024 22:56:30] "GET /user HTTP/1.1" 200 -
+2024-07-22 23:02:40,266 - INFO - Decorator Function Entered
+2024-07-22 23:02:40,266 - ERROR - Exception in authentication decorator: tuple index out of range
+2024-07-22 23:02:40,266 - INFO - 127.0.0.1 - - [22/Jul/2024 23:02:40] "POST /user HTTP/1.1" 200 -
+2024-07-22 23:02:49,682 - INFO - Decorator Function Entered
+2024-07-22 23:02:49,682 - ERROR - Exception in authentication decorator: tuple index out of range
+2024-07-22 23:02:49,682 - INFO - 127.0.0.1 - - [22/Jul/2024 23:02:49] "POST /user HTTP/1.1" 200 -
+2024-07-22 23:03:51,728 - INFO - Decorator Function Entered
+2024-07-22 23:03:51,728 - ERROR - Exception in authentication decorator: tuple index out of range
+2024-07-22 23:03:51,728 - INFO - 127.0.0.1 - - [22/Jul/2024 23:03:51] "GET /user HTTP/1.1" 200 -
+2024-07-22 23:05:07,751 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-22 23:05:07,862 - INFO -  * Restarting with stat
+2024-07-22 23:05:08,695 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:05:08,695 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:05:08,695 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:05:08,711 - WARNING -  * Debugger is active!
+2024-07-22 23:05:08,724 - INFO -  * Debugger PIN: 126-543-131
+2024-07-22 23:05:37,114 - INFO - Decorator Function Entered
+2024-07-22 23:05:37,114 - ERROR - Exception in authentication decorator: tuple index out of range
+2024-07-22 23:05:37,114 - INFO - 127.0.0.1 - - [22/Jul/2024 23:05:37] "GET /user HTTP/1.1" 200 -
+2024-07-22 23:05:47,247 - INFO - Decorator Function Entered
+2024-07-22 23:05:47,247 - ERROR - Exception in authentication decorator: tuple index out of range
+2024-07-22 23:05:47,248 - INFO - 127.0.0.1 - - [22/Jul/2024 23:05:47] "GET /user HTTP/1.1" 200 -
+2024-07-22 23:05:51,042 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:05:51,042 - INFO - Decorator Function Entered
+2024-07-22 23:05:51,042 - INFO - Authenticating user 'komal'
+2024-07-22 23:05:51,069 - ERROR - Exception in authentication decorator: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-07-22 23:05:51,069 - DEBUG -  mobile number is extracted - 935620002028
+2024-07-22 23:05:51,069 - DEBUG - Employee ID is extracted - EMP009
+2024-07-22 23:05:51,069 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:05:51,069 - DEBUG - Employee ID EMP009 is valid.
+2024-07-22 23:05:54,928 - DEBUG - Email has been sent to the users 
+2024-07-22 23:05:54,928 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, 935620002028]
+2024-07-22 23:05:54,928 - INFO - Record successfully inserted using POST METHOD: {'mobile': 935620002028, 'name': 'Julie', 'company': 'Platinum', 'employee_id': 'EMP009', 'password': 'julie@123', 'isadmin': False}
+2024-07-22 23:05:54,928 - ERROR - Error inserting record: Unexpected error: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information. using POST METHOD
+2024-07-22 23:05:58,378 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:05:58,378 - INFO - Decorator Function Entered
+2024-07-22 23:05:58,378 - INFO - Authenticating user 'komal'
+2024-07-22 23:10:55,737 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:10:55,737 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:10:55,737 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:10:55,738 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:10:55,738 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:10:55,738 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:10:55,773 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-22 23:10:55,773 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 23:10:55,773 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 23:10:55,779 - INFO -  * Restarting with stat
+2024-07-22 23:10:55,781 - INFO -  * Restarting with stat
+2024-07-22 23:10:56,236 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:10:56,236 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:10:56,236 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:10:56,238 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:10:56,238 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:10:56,238 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:10:56,246 - WARNING -  * Debugger is active!
+2024-07-22 23:10:56,248 - WARNING -  * Debugger is active!
+2024-07-22 23:10:56,254 - INFO -  * Debugger PIN: 126-543-131
+2024-07-22 23:10:56,256 - INFO -  * Debugger PIN: 126-543-131
+2024-07-22 23:11:00,838 - INFO - Decorator Function Entered
+2024-07-22 23:11:00,838 - ERROR - Exception in authentication decorator: tuple index out of range
+2024-07-22 23:11:00,839 - INFO - 127.0.0.1 - - [22/Jul/2024 23:11:00] "POST /user HTTP/1.1" 200 -
+2024-07-22 23:11:15,070 - INFO - Decorator Function Entered
+2024-07-22 23:11:15,070 - ERROR - Exception in authentication decorator: tuple index out of range
+2024-07-22 23:11:15,071 - INFO - 127.0.0.1 - - [22/Jul/2024 23:11:15] "POST /user HTTP/1.1" 200 -
+2024-07-22 23:12:14,921 - INFO - Decorator Function Entered
+2024-07-22 23:12:14,921 - ERROR - Exception in authentication decorator: tuple index out of range
+2024-07-22 23:12:14,921 - INFO - 127.0.0.1 - - [22/Jul/2024 23:12:14] "POST /user HTTP/1.1" 200 -
+2024-07-22 23:14:51,219 - INFO - Decorator Function Entered
+2024-07-22 23:14:51,222 - ERROR - Exception in authentication decorator: tuple index out of range
+2024-07-22 23:14:51,222 - INFO - 127.0.0.1 - - [22/Jul/2024 23:14:51] "POST /user HTTP/1.1" 200 -
+2024-07-22 23:17:15,567 - INFO - Decorator Function Entered
+2024-07-22 23:17:15,570 - ERROR - Exception in authentication decorator: tuple index out of range
+2024-07-22 23:17:15,571 - INFO - 127.0.0.1 - - [22/Jul/2024 23:17:15] "POST /user HTTP/1.1" 200 -
+2024-07-22 23:19:39,984 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-22 23:19:39,992 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-22 23:19:40,101 - INFO -  * Restarting with stat
+2024-07-22 23:19:40,110 - INFO -  * Restarting with stat
+2024-07-22 23:19:40,986 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:19:40,986 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:19:40,986 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:19:40,998 - WARNING -  * Debugger is active!
+2024-07-22 23:19:41,003 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:19:41,003 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:19:41,003 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:19:41,009 - INFO -  * Debugger PIN: 126-543-131
+2024-07-22 23:19:41,017 - WARNING -  * Debugger is active!
+2024-07-22 23:19:41,028 - INFO -  * Debugger PIN: 126-543-131
+2024-07-22 23:24:32,352 - INFO - Decorator Function Entered
+2024-07-22 23:24:32,352 - ERROR - Exception in authentication decorator: tuple index out of range
+2024-07-22 23:24:32,352 - INFO - 127.0.0.1 - - [22/Jul/2024 23:24:32] "POST /user HTTP/1.1" 200 -
+2024-07-22 23:28:42,584 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:28:42,584 - INFO - Decorator Function Entered
+2024-07-22 23:28:42,584 - INFO - Authenticating user 'komal'
+2024-07-22 23:28:42,590 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:28:42,590 - INFO - Decorator Function Entered
+2024-07-22 23:28:42,590 - INFO - Authenticating user 'komal'
+2024-07-22 23:28:42,611 - ERROR - Exception in authentication decorator: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-07-22 23:28:42,611 - DEBUG -  mobile number is extracted - 935620002028
+2024-07-22 23:28:42,611 - DEBUG - Employee ID is extracted - EMP009
+2024-07-22 23:28:42,611 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:28:42,612 - DEBUG - Employee ID EMP009 is valid.
+2024-07-22 23:28:42,619 - ERROR - Exception in authentication decorator: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-07-22 23:28:42,619 - DEBUG -  mobile number is extracted - 935620002028
+2024-07-22 23:28:42,619 - DEBUG - Employee ID is extracted - EMP009
+2024-07-22 23:28:42,619 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:28:42,619 - DEBUG - Employee ID EMP009 is valid.
+2024-07-22 23:28:46,280 - DEBUG - Email has been sent to the users 
+2024-07-22 23:28:46,280 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, 935620002028]
+2024-07-22 23:28:46,280 - INFO - Record successfully inserted using POST METHOD: {'mobile': 935620002028, 'name': 'Julie', 'company': 'Platinum', 'employee_id': 'EMP009', 'password': 'julie@123', 'isadmin': False}
+2024-07-22 23:28:46,280 - ERROR - Error inserting record: Unexpected error: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information. using POST METHOD
+2024-07-22 23:28:47,742 - DEBUG - Email has been sent to the users 
+2024-07-22 23:28:47,742 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, 935620002028]
+2024-07-22 23:28:47,743 - INFO - Record successfully inserted using POST METHOD: {'mobile': 935620002028, 'name': 'Julie', 'company': 'Platinum', 'employee_id': 'EMP009', 'password': 'julie@123', 'isadmin': False}
+2024-07-22 23:28:47,743 - ERROR - Error inserting record: Unexpected error: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information. using POST METHOD
+2024-07-22 23:28:49,452 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:28:49,452 - INFO - Decorator Function Entered
+2024-07-22 23:28:49,453 - INFO - Authenticating user 'komal'
+2024-07-22 23:28:51,091 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:28:51,092 - INFO - Decorator Function Entered
+2024-07-22 23:28:51,092 - INFO - Authenticating user 'komal'
+2024-07-22 23:38:16,308 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:38:16,308 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:38:16,308 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:38:16,334 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-22 23:38:16,335 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 23:38:16,339 - INFO -  * Restarting with stat
+2024-07-22 23:38:16,763 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:38:16,763 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:38:16,764 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:38:16,774 - WARNING -  * Debugger is active!
+2024-07-22 23:38:16,784 - INFO -  * Debugger PIN: 126-543-131
+2024-07-22 23:38:21,237 - INFO - Decorator Function Entered
+2024-07-22 23:38:21,237 - ERROR - Exception in authentication decorator: tuple index out of range
+2024-07-22 23:38:21,241 - INFO - 127.0.0.1 - - [22/Jul/2024 23:38:21] "POST /user HTTP/1.1" 200 -
+2024-07-22 23:39:58,208 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:39:58,208 - INFO - Decorator Function Entered
+2024-07-22 23:39:58,208 - INFO - Authenticating user 'komal'
+2024-07-22 23:39:58,215 - ERROR - Exception in authentication decorator: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-07-22 23:39:58,215 - DEBUG -  mobile number is extracted - 935620002028
+2024-07-22 23:39:58,215 - DEBUG - Employee ID is extracted - EMP009
+2024-07-22 23:39:58,215 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:39:58,215 - DEBUG - Employee ID EMP009 is valid.
+2024-07-22 23:40:01,696 - DEBUG - Email has been sent to the users 
+2024-07-22 23:40:01,697 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, 935620002028]
+2024-07-22 23:40:01,697 - INFO - Record successfully inserted using POST METHOD: {'mobile': 935620002028, 'name': 'Julie', 'company': 'Platinum', 'employee_id': 'EMP009', 'password': 'julie@123', 'isadmin': False}
+2024-07-22 23:40:01,698 - INFO -  (<Response 231 bytes [200 OK]>, 200) has been inserted using mobile number 
+
+2024-07-22 23:40:01,698 - INFO - -----------GET Single User METHOD Entered----------------
+
+2024-07-22 23:40:01,698 - DEBUG - Name extracted: kmakala
+2024-07-22 23:40:01,699 - DEBUG - Mobile number extracted: 914234234245
+2024-07-22 23:40:01,699 - DEBUG - Employee ID extracted: EMP001
+2024-07-22 23:40:01,699 - INFO - ------is valid mobile function entered------
+2024-07-22 23:40:01,699 - DEBUG - Validating mobile number: 914234234245
+2024-07-22 23:40:01,699 - DEBUG - Mobile number 914234234245 is valid
+2024-07-22 23:40:01,699 - INFO - ------is valid mobile function ended------
+2024-07-22 23:40:01,700 - DEBUG - Admin Check: Is 'komal' an admin? Yes
+2024-07-22 23:40:01,700 - DEBUG - 'komal' is an admin. Looking up user details for any user.
+2024-07-22 23:40:01,700 - DEBUG - Checking user record: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:40:01,700 - INFO - Admin 'komal' accessed details for 'kmakala': {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:40:04,741 - DEBUG - Email sent for admin access by 'komal'
+2024-07-22 23:40:04,742 - INFO - -----------------GET Single User METHOD Ended-----------------
+
+2024-07-22 23:40:04,816 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:40:04,817 - INFO - Decorator Function Entered
+2024-07-22 23:40:04,817 - INFO - Authenticating user 'komal'
+2024-07-22 23:40:22,483 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:40:22,483 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:40:22,483 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:40:22,509 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:40:22,510 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:40:22,510 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:40:22,520 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-22 23:40:22,520 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 23:40:22,529 - INFO -  * Restarting with stat
+2024-07-22 23:40:22,547 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-22 23:40:22,547 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 23:40:22,557 - INFO -  * Restarting with stat
+2024-07-22 23:40:23,292 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:40:23,292 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:40:23,292 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:40:23,301 - WARNING -  * Debugger is active!
+2024-07-22 23:40:23,309 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:40:23,309 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:40:23,309 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:40:23,310 - INFO -  * Debugger PIN: 126-543-131
+2024-07-22 23:40:23,320 - WARNING -  * Debugger is active!
+2024-07-22 23:40:23,328 - INFO -  * Debugger PIN: 126-543-131
+2024-07-22 23:40:26,951 - INFO - Decorator Function Entered
+2024-07-22 23:40:26,952 - ERROR - Exception in authentication decorator: Admin name is missing from the request headers
+2024-07-22 23:40:26,952 - INFO - 127.0.0.1 - - [22/Jul/2024 23:40:26] "[31m[1mPOST /user HTTP/1.1[0m" 403 -
+2024-07-22 23:40:50,809 - INFO - Decorator Function Entered
+2024-07-22 23:40:50,809 - ERROR - Exception in authentication decorator: Admin name is missing from the request headers
+2024-07-22 23:40:50,809 - INFO - 127.0.0.1 - - [22/Jul/2024 23:40:50] "[31m[1mPOST /user HTTP/1.1[0m" 403 -
+2024-07-22 23:40:58,689 - INFO - Decorator Function Entered
+2024-07-22 23:40:58,689 - ERROR - Exception in authentication decorator: Admin name is missing from the request headers
+2024-07-22 23:40:58,689 - INFO - 127.0.0.1 - - [22/Jul/2024 23:40:58] "[31m[1mPOST /user HTTP/1.1[0m" 403 -
+2024-07-22 23:42:56,574 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:42:56,575 - INFO - Decorator Function Entered
+2024-07-22 23:42:56,575 - ERROR - Exception in authentication decorator: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2024-07-22 23:42:56,575 - DEBUG -  mobile number is extracted - 935620002028
+2024-07-22 23:42:56,575 - DEBUG - Employee ID is extracted - EMP009
+2024-07-22 23:42:56,575 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:42:56,575 - DEBUG - Employee ID EMP009 is valid.
+2024-07-22 23:42:56,581 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:42:56,581 - INFO - Decorator Function Entered
+2024-07-22 23:42:56,581 - ERROR - Exception in authentication decorator: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2024-07-22 23:42:56,582 - DEBUG -  mobile number is extracted - 935620002028
+2024-07-22 23:42:56,582 - DEBUG - Employee ID is extracted - EMP009
+2024-07-22 23:42:56,582 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:42:56,582 - DEBUG - Employee ID EMP009 is valid.
+2024-07-22 23:42:59,984 - DEBUG - Email has been sent to the users 
+2024-07-22 23:42:59,984 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, 935620002028]
+2024-07-22 23:42:59,984 - INFO - Record successfully inserted using POST METHOD: {'mobile': 935620002028, 'name': 'Julie', 'company': 'Platinum', 'employee_id': 'EMP009', 'password': 'julie@123', 'isadmin': False}
+2024-07-22 23:42:59,986 - INFO -  (<Response 231 bytes [200 OK]>, 200) has been inserted using mobile number 
+
+2024-07-22 23:42:59,986 - INFO - -----------GET Single User METHOD Entered----------------
+
+2024-07-22 23:42:59,986 - DEBUG - Name extracted: kmakala
+2024-07-22 23:42:59,987 - DEBUG - Mobile number extracted: 914234234245
+2024-07-22 23:42:59,987 - DEBUG - Employee ID extracted: EMP001
+2024-07-22 23:42:59,987 - INFO - ------is valid mobile function entered------
+2024-07-22 23:42:59,987 - DEBUG - Validating mobile number: 914234234245
+2024-07-22 23:42:59,987 - DEBUG - Mobile number 914234234245 is valid
+2024-07-22 23:42:59,987 - INFO - ------is valid mobile function ended------
+2024-07-22 23:42:59,988 - DEBUG - Admin Check: Is 'komal' an admin? Yes
+2024-07-22 23:42:59,988 - DEBUG - 'komal' is an admin. Looking up user details for any user.
+2024-07-22 23:42:59,988 - DEBUG - Checking user record: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:42:59,988 - INFO - Admin 'komal' accessed details for 'kmakala': {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:43:01,229 - DEBUG - Email has been sent to the users 
+2024-07-22 23:43:01,229 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, 935620002028]
+2024-07-22 23:43:01,229 - INFO - Record successfully inserted using POST METHOD: {'mobile': 935620002028, 'name': 'Julie', 'company': 'Platinum', 'employee_id': 'EMP009', 'password': 'julie@123', 'isadmin': False}
+2024-07-22 23:43:01,229 - INFO -  (<Response 231 bytes [200 OK]>, 200) has been inserted using mobile number 
+
+2024-07-22 23:43:01,229 - INFO - -----------GET Single User METHOD Entered----------------
+
+2024-07-22 23:43:01,230 - DEBUG - Name extracted: kmakala
+2024-07-22 23:43:01,230 - DEBUG - Mobile number extracted: 914234234245
+2024-07-22 23:43:01,230 - DEBUG - Employee ID extracted: EMP001
+2024-07-22 23:43:01,230 - INFO - ------is valid mobile function entered------
+2024-07-22 23:43:01,230 - DEBUG - Validating mobile number: 914234234245
+2024-07-22 23:43:01,230 - DEBUG - Mobile number 914234234245 is valid
+2024-07-22 23:43:01,230 - INFO - ------is valid mobile function ended------
+2024-07-22 23:43:01,230 - DEBUG - Admin Check: Is 'komal' an admin? Yes
+2024-07-22 23:43:01,230 - DEBUG - 'komal' is an admin. Looking up user details for any user.
+2024-07-22 23:43:01,230 - DEBUG - Checking user record: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:43:01,231 - INFO - Admin 'komal' accessed details for 'kmakala': {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:43:03,981 - DEBUG - Email sent for admin access by 'komal'
+2024-07-22 23:43:03,983 - INFO - -----------------GET Single User METHOD Ended-----------------
+
+2024-07-22 23:43:04,072 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:43:04,073 - INFO - Decorator Function Entered
+2024-07-22 23:43:04,073 - ERROR - Exception in authentication decorator: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2024-07-22 23:43:04,073 - DEBUG -  mobile number is extracted - 935620002028
+2024-07-22 23:43:04,073 - DEBUG - Employee ID is extracted - EMP009
+2024-07-22 23:43:04,073 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:43:04,073 - DEBUG - Employee ID EMP009 is valid.
+2024-07-22 23:43:04,607 - DEBUG - Email sent for admin access by 'komal'
+2024-07-22 23:43:04,607 - INFO - -----------------GET Single User METHOD Ended-----------------
+
+2024-07-22 23:43:04,711 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:43:04,711 - INFO - Decorator Function Entered
+2024-07-22 23:43:04,711 - ERROR - Exception in authentication decorator: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2024-07-22 23:43:04,712 - DEBUG -  mobile number is extracted - 935620002028
+2024-07-22 23:43:04,712 - DEBUG - Employee ID is extracted - EMP009
+2024-07-22 23:43:04,712 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:43:04,712 - DEBUG - Employee ID EMP009 is valid.
+2024-07-22 23:43:07,219 - DEBUG - Email has been sent to the users 
+2024-07-22 23:43:07,219 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, 935620002028]
+2024-07-22 23:43:07,219 - INFO - Record successfully inserted using POST METHOD: {'mobile': 935620002028, 'name': 'Julie', 'company': 'Platinum', 'employee_id': 'EMP009', 'password': 'julie@123', 'isadmin': False}
+2024-07-22 23:43:07,219 - INFO -  (<Response 231 bytes [200 OK]>, 200) has been inserted using mobile number 
+
+2024-07-22 23:43:07,220 - INFO - -----------GET Single User METHOD Entered----------------
+
+2024-07-22 23:43:07,220 - DEBUG - Name extracted: kmakala
+2024-07-22 23:43:07,220 - DEBUG - Mobile number extracted: 914234234245
+2024-07-22 23:43:07,220 - DEBUG - Employee ID extracted: EMP001
+2024-07-22 23:43:07,220 - INFO - ------is valid mobile function entered------
+2024-07-22 23:43:07,220 - DEBUG - Validating mobile number: 914234234245
+2024-07-22 23:43:07,222 - DEBUG - Mobile number 914234234245 is valid
+2024-07-22 23:43:07,222 - INFO - ------is valid mobile function ended------
+2024-07-22 23:43:07,222 - DEBUG - Admin Check: Is 'komal' an admin? Yes
+2024-07-22 23:43:07,222 - DEBUG - 'komal' is an admin. Looking up user details for any user.
+2024-07-22 23:43:07,223 - DEBUG - Checking user record: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:43:07,223 - INFO - Admin 'komal' accessed details for 'kmakala': {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:43:07,910 - DEBUG - Email has been sent to the users 
+2024-07-22 23:43:07,910 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, 935620002028]
+2024-07-22 23:43:07,910 - INFO - Record successfully inserted using POST METHOD: {'mobile': 935620002028, 'name': 'Julie', 'company': 'Platinum', 'employee_id': 'EMP009', 'password': 'julie@123', 'isadmin': False}
+2024-07-22 23:43:07,911 - INFO -  (<Response 231 bytes [200 OK]>, 200) has been inserted using mobile number 
+
+2024-07-22 23:43:07,911 - INFO - -----------GET Single User METHOD Entered----------------
+
+2024-07-22 23:43:07,912 - DEBUG - Name extracted: kmakala
+2024-07-22 23:43:07,912 - DEBUG - Mobile number extracted: 914234234245
+2024-07-22 23:43:07,912 - DEBUG - Employee ID extracted: EMP001
+2024-07-22 23:43:07,912 - INFO - ------is valid mobile function entered------
+2024-07-22 23:43:07,912 - DEBUG - Validating mobile number: 914234234245
+2024-07-22 23:43:07,913 - DEBUG - Mobile number 914234234245 is valid
+2024-07-22 23:43:07,913 - INFO - ------is valid mobile function ended------
+2024-07-22 23:43:07,913 - DEBUG - Admin Check: Is 'komal' an admin? Yes
+2024-07-22 23:43:07,913 - DEBUG - 'komal' is an admin. Looking up user details for any user.
+2024-07-22 23:43:07,913 - DEBUG - Checking user record: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:43:07,914 - INFO - Admin 'komal' accessed details for 'kmakala': {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:43:11,038 - DEBUG - Email sent for admin access by 'komal'
+2024-07-22 23:43:11,038 - INFO - -----------------GET Single User METHOD Ended-----------------
+
+2024-07-22 23:43:11,635 - DEBUG - Email sent for admin access by 'komal'
+2024-07-22 23:43:11,635 - INFO - -----------------GET Single User METHOD Ended-----------------
+
+2024-07-22 23:43:12,519 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:43:12,519 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:43:12,519 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:43:12,543 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-22 23:43:12,543 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 23:43:12,548 - INFO -  * Restarting with stat
+2024-07-22 23:43:12,950 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:43:12,950 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:43:12,950 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:43:12,960 - WARNING -  * Debugger is active!
+2024-07-22 23:43:12,967 - INFO -  * Debugger PIN: 126-543-131
+2024-07-22 23:43:15,072 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:43:15,072 - INFO - Decorator Function Entered
+2024-07-22 23:43:15,072 - ERROR - Exception in authentication decorator: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2024-07-22 23:43:15,072 - DEBUG -  mobile number is extracted - 935620002028
+2024-07-22 23:43:15,072 - DEBUG - Employee ID is extracted - EMP009
+2024-07-22 23:43:15,072 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:43:15,072 - DEBUG - Employee ID EMP009 is valid.
+2024-07-22 23:43:18,544 - DEBUG - Email has been sent to the users 
+2024-07-22 23:43:18,545 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, 935620002028]
+2024-07-22 23:43:18,545 - INFO - Record successfully inserted using POST METHOD: {'mobile': 935620002028, 'name': 'Julie', 'company': 'Platinum', 'employee_id': 'EMP009', 'password': 'julie@123', 'isadmin': False}
+2024-07-22 23:43:18,545 - INFO -  (<Response 231 bytes [200 OK]>, 200) has been inserted using mobile number 
+
+2024-07-22 23:43:18,546 - INFO - -----------GET Single User METHOD Entered----------------
+
+2024-07-22 23:43:18,546 - DEBUG - Name extracted: kmakala
+2024-07-22 23:43:18,546 - DEBUG - Mobile number extracted: 914234234245
+2024-07-22 23:43:18,546 - DEBUG - Employee ID extracted: EMP001
+2024-07-22 23:43:18,546 - INFO - ------is valid mobile function entered------
+2024-07-22 23:43:18,546 - DEBUG - Validating mobile number: 914234234245
+2024-07-22 23:43:18,547 - DEBUG - Mobile number 914234234245 is valid
+2024-07-22 23:43:18,547 - INFO - ------is valid mobile function ended------
+2024-07-22 23:43:18,547 - DEBUG - Admin Check: Is 'komal' an admin? Yes
+2024-07-22 23:43:18,547 - DEBUG - 'komal' is an admin. Looking up user details for any user.
+2024-07-22 23:43:18,548 - DEBUG - Checking user record: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:43:18,548 - INFO - Admin 'komal' accessed details for 'kmakala': {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:43:22,583 - DEBUG - Email sent for admin access by 'komal'
+2024-07-22 23:43:22,584 - INFO - -----------------GET Single User METHOD Ended-----------------
+
+2024-07-22 23:43:22,677 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:43:22,678 - INFO - Decorator Function Entered
+2024-07-22 23:43:22,678 - ERROR - Exception in authentication decorator: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2024-07-22 23:43:22,678 - DEBUG -  mobile number is extracted - 935620002028
+2024-07-22 23:43:22,678 - DEBUG - Employee ID is extracted - EMP009
+2024-07-22 23:43:22,678 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:43:22,679 - DEBUG - Employee ID EMP009 is valid.
+2024-07-22 23:43:27,218 - DEBUG - Email has been sent to the users 
+2024-07-22 23:43:27,219 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, 935620002028]
+2024-07-22 23:43:27,220 - INFO - Record successfully inserted using POST METHOD: {'mobile': 935620002028, 'name': 'Julie', 'company': 'Platinum', 'employee_id': 'EMP009', 'password': 'julie@123', 'isadmin': False}
+2024-07-22 23:43:27,221 - INFO -  (<Response 231 bytes [200 OK]>, 200) has been inserted using mobile number 
+
+2024-07-22 23:43:27,221 - INFO - -----------GET Single User METHOD Entered----------------
+
+2024-07-22 23:43:27,221 - DEBUG - Name extracted: kmakala
+2024-07-22 23:43:27,222 - DEBUG - Mobile number extracted: 914234234245
+2024-07-22 23:43:27,222 - DEBUG - Employee ID extracted: EMP001
+2024-07-22 23:43:27,222 - INFO - ------is valid mobile function entered------
+2024-07-22 23:43:27,222 - DEBUG - Validating mobile number: 914234234245
+2024-07-22 23:43:27,223 - DEBUG - Mobile number 914234234245 is valid
+2024-07-22 23:43:27,223 - INFO - ------is valid mobile function ended------
+2024-07-22 23:43:27,223 - DEBUG - Admin Check: Is 'komal' an admin? Yes
+2024-07-22 23:43:27,223 - DEBUG - 'komal' is an admin. Looking up user details for any user.
+2024-07-22 23:43:27,224 - DEBUG - Checking user record: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:43:27,224 - INFO - Admin 'komal' accessed details for 'kmakala': {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:43:31,197 - DEBUG - Email sent for admin access by 'komal'
+2024-07-22 23:43:31,197 - INFO - -----------------GET Single User METHOD Ended-----------------
+
+2024-07-22 23:43:32,278 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:43:32,278 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:43:32,278 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:43:32,316 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-22 23:43:32,316 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 23:43:32,329 - INFO -  * Restarting with stat
+2024-07-22 23:43:32,865 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:43:32,865 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:43:32,866 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:43:32,868 - WARNING -  * Debugger is active!
+2024-07-22 23:43:32,880 - INFO -  * Debugger PIN: 126-543-131
+2024-07-22 23:43:57,781 - INFO - Decorator Function Entered
+2024-07-22 23:43:57,785 - ERROR - Exception in authentication decorator: Admin name is missing from the request body
+2024-07-22 23:43:57,785 - INFO - 127.0.0.1 - - [22/Jul/2024 23:43:57] "[31m[1mPOST /user HTTP/1.1[0m" 403 -
+2024-07-22 23:44:30,195 - INFO - Decorator Function Entered
+2024-07-22 23:44:30,196 - INFO - Authenticating user 'komal'
+2024-07-22 23:44:30,196 - ERROR - Exception in authentication decorator: handle_user() missing 1 required positional argument: 'admin_name'
+2024-07-22 23:44:30,196 - INFO - 127.0.0.1 - - [22/Jul/2024 23:44:30] "[31m[1mPOST /user HTTP/1.1[0m" 403 -
+2024-07-22 23:45:57,581 - INFO - 127.0.0.1 - - [22/Jul/2024 23:45:57] "[33mPOST /user/komal HTTP/1.1[0m" 404 -
+2024-07-22 23:46:22,420 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:46:22,420 - INFO - Decorator Function Entered
+2024-07-22 23:46:22,420 - ERROR - Exception in authentication decorator: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2024-07-22 23:46:22,420 - DEBUG -  mobile number is extracted - 935620002028
+2024-07-22 23:46:22,420 - DEBUG - Employee ID is extracted - EMP009
+2024-07-22 23:46:22,421 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:46:22,421 - DEBUG - Employee ID EMP009 is valid.
+2024-07-22 23:46:26,702 - DEBUG - Email has been sent to the users 
+2024-07-22 23:46:26,702 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, 935620002028]
+2024-07-22 23:46:26,702 - INFO - Record successfully inserted using POST METHOD: {'mobile': 935620002028, 'name': 'Julie', 'company': 'Platinum', 'employee_id': 'EMP009', 'password': 'julie@123', 'isadmin': False}
+2024-07-22 23:46:26,704 - INFO -  (<Response 231 bytes [200 OK]>, 200) has been inserted using mobile number 
+
+2024-07-22 23:46:26,704 - INFO - -----------GET Single User METHOD Entered----------------
+
+2024-07-22 23:46:26,704 - DEBUG - Name extracted: kmakala
+2024-07-22 23:46:26,704 - DEBUG - Mobile number extracted: 914234234245
+2024-07-22 23:46:26,704 - DEBUG - Employee ID extracted: EMP001
+2024-07-22 23:46:26,705 - INFO - ------is valid mobile function entered------
+2024-07-22 23:46:26,705 - DEBUG - Validating mobile number: 914234234245
+2024-07-22 23:46:26,706 - DEBUG - Mobile number 914234234245 is valid
+2024-07-22 23:46:26,706 - INFO - ------is valid mobile function ended------
+2024-07-22 23:46:26,706 - DEBUG - Admin Check: Is 'komal' an admin? Yes
+2024-07-22 23:46:26,706 - DEBUG - 'komal' is an admin. Looking up user details for any user.
+2024-07-22 23:46:26,706 - DEBUG - Checking user record: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:46:26,707 - INFO - Admin 'komal' accessed details for 'kmakala': {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:46:30,302 - DEBUG - Email sent for admin access by 'komal'
+2024-07-22 23:46:30,302 - INFO - -----------------GET Single User METHOD Ended-----------------
+
+2024-07-22 23:46:30,397 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:46:30,397 - INFO - Decorator Function Entered
+2024-07-22 23:46:30,397 - ERROR - Exception in authentication decorator: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2024-07-22 23:46:30,398 - DEBUG -  mobile number is extracted - 935620002028
+2024-07-22 23:46:30,398 - DEBUG - Employee ID is extracted - EMP009
+2024-07-22 23:46:30,398 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:46:30,398 - DEBUG - Employee ID EMP009 is valid.
+2024-07-22 23:46:33,748 - DEBUG - Email has been sent to the users 
+2024-07-22 23:46:33,748 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, 935620002028]
+2024-07-22 23:46:33,749 - INFO - Record successfully inserted using POST METHOD: {'mobile': 935620002028, 'name': 'Julie', 'company': 'Platinum', 'employee_id': 'EMP009', 'password': 'julie@123', 'isadmin': False}
+2024-07-22 23:46:33,749 - INFO -  (<Response 231 bytes [200 OK]>, 200) has been inserted using mobile number 
+
+2024-07-22 23:46:33,749 - INFO - -----------GET Single User METHOD Entered----------------
+
+2024-07-22 23:46:33,749 - DEBUG - Name extracted: kmakala
+2024-07-22 23:46:33,749 - DEBUG - Mobile number extracted: 914234234245
+2024-07-22 23:46:33,749 - DEBUG - Employee ID extracted: EMP001
+2024-07-22 23:46:33,749 - INFO - ------is valid mobile function entered------
+2024-07-22 23:46:33,751 - DEBUG - Validating mobile number: 914234234245
+2024-07-22 23:46:33,751 - DEBUG - Mobile number 914234234245 is valid
+2024-07-22 23:46:33,751 - INFO - ------is valid mobile function ended------
+2024-07-22 23:46:33,751 - DEBUG - Admin Check: Is 'komal' an admin? Yes
+2024-07-22 23:46:33,751 - DEBUG - 'komal' is an admin. Looking up user details for any user.
+2024-07-22 23:46:33,751 - DEBUG - Checking user record: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:46:33,751 - INFO - Admin 'komal' accessed details for 'kmakala': {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:46:36,877 - DEBUG - Email sent for admin access by 'komal'
+2024-07-22 23:46:36,878 - INFO - -----------------GET Single User METHOD Ended-----------------
+
+2024-07-22 23:46:38,155 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:46:38,156 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:46:38,156 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:46:38,304 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-22 23:46:38,304 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 23:46:38,333 - INFO -  * Restarting with stat
+2024-07-22 23:46:39,099 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:46:39,099 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:46:39,099 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:46:39,110 - WARNING -  * Debugger is active!
+2024-07-22 23:46:39,120 - INFO -  * Debugger PIN: 126-543-131
+2024-07-22 23:46:48,730 - INFO - 127.0.0.1 - - [22/Jul/2024 23:46:48] "[33mPOST /user/komal HTTP/1.1[0m" 404 -
+2024-07-22 23:47:26,322 - INFO - Decorator Function Entered
+2024-07-22 23:47:26,323 - ERROR - Exception in authentication decorator: Admin name is missing from the request body
+2024-07-22 23:47:26,324 - INFO - 127.0.0.1 - - [22/Jul/2024 23:47:26] "[31m[1mPOST /user?admin_name=komal HTTP/1.1[0m" 403 -
+2024-07-22 23:48:14,574 - INFO - Decorator Function Entered
+2024-07-22 23:48:14,574 - INFO - Authenticating user 'komal'
+2024-07-22 23:48:14,574 - ERROR - Exception in authentication decorator: handle_user() missing 1 required positional argument: 'admin_name'
+2024-07-22 23:48:14,574 - INFO - 127.0.0.1 - - [22/Jul/2024 23:48:14] "[31m[1mPOST /user?admin_name=komal HTTP/1.1[0m" 403 -
+2024-07-22 23:48:22,547 - INFO - Decorator Function Entered
+2024-07-22 23:48:22,547 - INFO - Authenticating user 'komal'
+2024-07-22 23:48:22,547 - ERROR - Exception in authentication decorator: handle_user() missing 1 required positional argument: 'admin_name'
+2024-07-22 23:48:22,549 - INFO - 127.0.0.1 - - [22/Jul/2024 23:48:22] "[31m[1mPOST /user?admin_name=komal HTTP/1.1[0m" 403 -
+2024-07-22 23:49:14,766 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:49:14,766 - INFO - Decorator Function Entered
+2024-07-22 23:49:14,766 - ERROR - Exception in authentication decorator: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2024-07-22 23:49:14,766 - DEBUG -  mobile number is extracted - 935620002028
+2024-07-22 23:49:14,766 - DEBUG - Employee ID is extracted - EMP009
+2024-07-22 23:49:14,767 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:49:14,767 - DEBUG - Employee ID EMP009 is valid.
+2024-07-22 23:49:18,571 - DEBUG - Email has been sent to the users 
+2024-07-22 23:49:18,571 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, 935620002028]
+2024-07-22 23:49:18,571 - INFO - Record successfully inserted using POST METHOD: {'mobile': 935620002028, 'name': 'Julie', 'company': 'Platinum', 'employee_id': 'EMP009', 'password': 'julie@123', 'isadmin': False}
+2024-07-22 23:49:18,572 - INFO -  (<Response 231 bytes [200 OK]>, 200) has been inserted using mobile number 
+
+2024-07-22 23:49:18,572 - INFO - -----------GET Single User METHOD Entered----------------
+
+2024-07-22 23:49:18,572 - DEBUG - Name extracted: kmakala
+2024-07-22 23:49:18,572 - DEBUG - Mobile number extracted: 914234234245
+2024-07-22 23:49:18,572 - DEBUG - Employee ID extracted: EMP001
+2024-07-22 23:49:18,572 - INFO - ------is valid mobile function entered------
+2024-07-22 23:49:18,572 - DEBUG - Validating mobile number: 914234234245
+2024-07-22 23:49:18,572 - DEBUG - Mobile number 914234234245 is valid
+2024-07-22 23:49:18,572 - INFO - ------is valid mobile function ended------
+2024-07-22 23:49:18,572 - DEBUG - Admin Check: Is 'komal' an admin? Yes
+2024-07-22 23:49:18,572 - DEBUG - 'komal' is an admin. Looking up user details for any user.
+2024-07-22 23:49:18,572 - DEBUG - Checking user record: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:49:18,573 - INFO - Admin 'komal' accessed details for 'kmakala': {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:49:21,945 - DEBUG - Email sent for admin access by 'komal'
+2024-07-22 23:49:21,945 - INFO - -----------------GET Single User METHOD Ended-----------------
+
+2024-07-22 23:49:22,046 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:49:22,047 - INFO - Decorator Function Entered
+2024-07-22 23:49:22,047 - ERROR - Exception in authentication decorator: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2024-07-22 23:49:22,047 - DEBUG -  mobile number is extracted - 935620002028
+2024-07-22 23:49:22,047 - DEBUG - Employee ID is extracted - EMP009
+2024-07-22 23:49:22,048 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:49:22,048 - DEBUG - Employee ID EMP009 is valid.
+2024-07-22 23:49:25,231 - DEBUG - Email has been sent to the users 
+2024-07-22 23:49:25,231 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, 935620002028]
+2024-07-22 23:49:25,231 - INFO - Record successfully inserted using POST METHOD: {'mobile': 935620002028, 'name': 'Julie', 'company': 'Platinum', 'employee_id': 'EMP009', 'password': 'julie@123', 'isadmin': False}
+2024-07-22 23:49:25,232 - INFO -  (<Response 231 bytes [200 OK]>, 200) has been inserted using mobile number 
+
+2024-07-22 23:49:25,232 - INFO - -----------GET Single User METHOD Entered----------------
+
+2024-07-22 23:49:25,232 - DEBUG - Name extracted: kmakala
+2024-07-22 23:49:25,232 - DEBUG - Mobile number extracted: 914234234245
+2024-07-22 23:49:25,232 - DEBUG - Employee ID extracted: EMP001
+2024-07-22 23:49:25,232 - INFO - ------is valid mobile function entered------
+2024-07-22 23:49:25,232 - DEBUG - Validating mobile number: 914234234245
+2024-07-22 23:49:25,232 - DEBUG - Mobile number 914234234245 is valid
+2024-07-22 23:49:25,232 - INFO - ------is valid mobile function ended------
+2024-07-22 23:49:25,232 - DEBUG - Admin Check: Is 'komal' an admin? Yes
+2024-07-22 23:49:25,233 - DEBUG - 'komal' is an admin. Looking up user details for any user.
+2024-07-22 23:49:25,233 - DEBUG - Checking user record: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:49:25,233 - INFO - Admin 'komal' accessed details for 'kmakala': {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:49:29,778 - DEBUG - Email sent for admin access by 'komal'
+2024-07-22 23:49:29,779 - INFO - -----------------GET Single User METHOD Ended-----------------
+
+2024-07-22 23:49:31,017 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:49:31,017 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:49:31,017 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:49:31,064 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-22 23:49:31,064 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 23:49:31,074 - INFO -  * Restarting with stat
+2024-07-22 23:49:31,562 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:49:31,563 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:49:31,563 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:49:31,572 - WARNING -  * Debugger is active!
+2024-07-22 23:49:31,584 - INFO -  * Debugger PIN: 126-543-131
+2024-07-22 23:49:39,650 - INFO - Decorator Function Entered
+2024-07-22 23:49:39,651 - INFO - Authenticating user 'komal'
+2024-07-22 23:49:39,651 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:49:39,651 - INFO - Decorator Function Entered
+2024-07-22 23:49:39,651 - INFO - Authenticating user 'komal'
+2024-07-22 23:49:39,652 - ERROR - Exception in authentication decorator: admin_operations() takes 1 positional argument but 2 were given
+2024-07-22 23:49:39,652 - DEBUG -  mobile number is extracted - 914234234246
+2024-07-22 23:49:39,652 - DEBUG - Employee ID is extracted - EMP009
+2024-07-22 23:49:39,652 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:49:39,652 - DEBUG - Employee ID EMP009 is valid.
+2024-07-22 23:49:43,051 - DEBUG - Email has been sent to the users 
+2024-07-22 23:49:43,051 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, '914234234246']
+2024-07-22 23:49:43,052 - INFO - Record successfully inserted using POST METHOD: {'admin_name': 'komal', 'mobile': '914234234246', 'employee_id': 'EMP009', 'name': 'kiran', 'company': 'kirans', 'password': 'kiran@123', 'isadmin': 'False'}
+2024-07-22 23:49:43,053 - INFO - 127.0.0.1 - - [22/Jul/2024 23:49:43] "POST /user?admin_name=komal HTTP/1.1" 200 -
+2024-07-22 23:50:01,117 - INFO - Decorator Function Entered
+2024-07-22 23:50:01,117 - INFO - Authenticating user 'komal'
+2024-07-22 23:50:01,117 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:50:01,117 - INFO - Decorator Function Entered
+2024-07-22 23:50:01,119 - INFO - Authenticating user 'komal'
+2024-07-22 23:50:01,119 - ERROR - Exception in authentication decorator: admin_operations() takes 1 positional argument but 2 were given
+2024-07-22 23:50:01,119 - DEBUG -  mobile number is extracted - 914234234246
+2024-07-22 23:50:01,119 - DEBUG - Employee ID is extracted - EMP009
+2024-07-22 23:50:01,120 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:50:01,120 - DEBUG - Employee ID EMP009 is valid.
+2024-07-22 23:50:01,120 - WARNING - Record with mobile number 914234234246 already exists. Please enter new details.
+2024-07-22 23:50:01,120 - INFO - 127.0.0.1 - - [22/Jul/2024 23:50:01] "POST /user HTTP/1.1" 200 -
+2024-07-22 23:50:45,039 - INFO - Decorator Function Entered
+2024-07-22 23:50:45,039 - INFO - Authenticating user 'komal'
+2024-07-22 23:50:45,039 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-22 23:50:45,039 - INFO - Decorator Function Entered
+2024-07-22 23:50:45,039 - INFO - Authenticating user 'komal'
+2024-07-22 23:50:45,039 - ERROR - Exception in authentication decorator: admin_operations() takes 1 positional argument but 2 were given
+2024-07-22 23:50:45,040 - DEBUG -  mobile number is extracted - 914234234276
+2024-07-22 23:50:45,040 - DEBUG - Employee ID is extracted - EMP110
+2024-07-22 23:50:45,040 - INFO -  ------is valid employee ID function entered------
+
+2024-07-22 23:50:45,040 - DEBUG - Employee ID EMP110 is valid.
+2024-07-22 23:50:49,211 - DEBUG - Email has been sent to the users 
+2024-07-22 23:50:49,212 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, '914234234246', '914234234276']
+2024-07-22 23:50:49,212 - INFO - Record successfully inserted using POST METHOD: {'admin_name': 'komal', 'mobile': '914234234276', 'employee_id': 'EMP110', 'name': 'jin', 'company': 'ks', 'password': 'jin@123', 'isadmin': 'False'}
+2024-07-22 23:50:49,212 - INFO - 127.0.0.1 - - [22/Jul/2024 23:50:49] "POST /user HTTP/1.1" 200 -
+2024-07-22 23:52:17,828 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\authentication_authorization\\aunthentic_authorized.py', reloading
+2024-07-22 23:52:17,917 - INFO -  * Restarting with stat
+2024-07-22 23:52:18,419 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-22 23:52:18,419 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-22 23:52:18,419 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-22 23:52:18,426 - WARNING -  * Debugger is active!
+2024-07-22 23:52:18,433 - INFO -  * Debugger PIN: 126-543-131
+2024-07-22 23:53:13,140 - INFO - Decorator Function Entered
+2024-07-22 23:53:13,140 - ERROR - Exception in authentication decorator: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2024-07-22 23:53:13,140 - INFO - 127.0.0.1 - - [22/Jul/2024 23:53:13] "[31m[1mGET /user?admin_name=komal HTTP/1.1[0m" 403 -
+2024-07-22 23:54:52,324 - INFO - Decorator Function Entered
+2024-07-22 23:54:52,324 - ERROR - Exception in authentication decorator: Admin name is missing from the request body
+2024-07-22 23:54:52,324 - INFO - 127.0.0.1 - - [22/Jul/2024 23:54:52] "[31m[1mGET /user?admin_name=komal HTTP/1.1[0m" 403 -
+2024-07-22 23:55:08,338 - INFO - Decorator Function Entered
+2024-07-22 23:55:08,338 - INFO - Authenticating user 'komal'
+2024-07-22 23:55:08,338 - INFO - -----------GET Single User METHOD Entered----------------
+
+2024-07-22 23:55:08,339 - WARNING - Missing "mobile", "employee_id", or "name" keys in record
+2024-07-22 23:55:12,838 - DEBUG - Email sent for missing keys in record by 'komal'
+2024-07-22 23:55:12,839 - INFO - -----------------GET Single User METHOD Ended-----------------
+
+2024-07-22 23:55:12,840 - INFO - 127.0.0.1 - - [22/Jul/2024 23:55:12] "[31m[1mGET /user?admin_name=komal HTTP/1.1[0m" 403 -
+2024-07-22 23:55:41,997 - INFO - Decorator Function Entered
+2024-07-22 23:55:41,998 - INFO - Authenticating user 'komal'
+2024-07-22 23:55:41,999 - INFO - -----------GET Single User METHOD Entered----------------
+
+2024-07-22 23:55:41,999 - WARNING - Missing "mobile", "employee_id", or "name" keys in record
+2024-07-22 23:55:45,182 - DEBUG - Email sent for missing keys in record by 'komal'
+2024-07-22 23:55:45,184 - INFO - -----------------GET Single User METHOD Ended-----------------
+
+2024-07-22 23:55:45,185 - INFO - 127.0.0.1 - - [22/Jul/2024 23:55:45] "[31m[1mGET /user?admin_name=komal HTTP/1.1[0m" 403 -
+2024-07-22 23:55:53,276 - INFO - Decorator Function Entered
+2024-07-22 23:55:53,277 - INFO - Authenticating user 'komal'
+2024-07-22 23:55:53,277 - INFO - -----------GET Single User METHOD Entered----------------
+
+2024-07-22 23:55:53,278 - DEBUG - Name extracted: kmakala
+2024-07-22 23:55:53,278 - DEBUG - Mobile number extracted: 914234234245
+2024-07-22 23:55:53,278 - DEBUG - Employee ID extracted: EMP001
+2024-07-22 23:55:53,279 - INFO - ------is valid mobile function entered------
+2024-07-22 23:55:53,279 - DEBUG - Validating mobile number: 914234234245
+2024-07-22 23:55:53,279 - DEBUG - Mobile number 914234234245 is valid
+2024-07-22 23:55:53,279 - INFO - ------is valid mobile function ended------
+2024-07-22 23:55:53,279 - DEBUG - Admin Check: Is 'komal' an admin? Yes
+2024-07-22 23:55:53,279 - DEBUG - 'komal' is an admin. Looking up user details for any user.
+2024-07-22 23:55:53,279 - DEBUG - Checking user record: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:55:53,279 - INFO - Admin 'komal' accessed details for 'kmakala': {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}
+2024-07-22 23:55:56,784 - DEBUG - Email sent for admin access by 'komal'
+2024-07-22 23:55:56,785 - INFO - -----------------GET Single User METHOD Ended-----------------
+
+2024-07-22 23:55:56,786 - INFO - 127.0.0.1 - - [22/Jul/2024 23:55:56] "GET /user?admin_name=komal HTTP/1.1" 200 -
+2024-07-22 23:56:26,843 - INFO - Decorator Function Entered
+2024-07-22 23:56:26,843 - ERROR - Exception in authentication decorator: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2024-07-22 23:56:26,845 - INFO - 127.0.0.1 - - [22/Jul/2024 23:56:26] "[31m[1mGET /user?admin_name=komal HTTP/1.1[0m" 403 -
+2024-07-22 23:57:09,915 - INFO - Decorator Function Entered
+2024-07-22 23:57:09,916 - ERROR - Exception in authentication decorator: Admin name is missing from the request body
+2024-07-22 23:57:09,916 - INFO - 127.0.0.1 - - [22/Jul/2024 23:57:09] "[31m[1mGET /user?admin_name=komal HTTP/1.1[0m" 403 -
+2024-07-22 23:57:52,988 - INFO - Decorator Function Entered
+2024-07-22 23:57:52,988 - ERROR - Exception in authentication decorator: 400 Bad Request: Failed to decode JSON object: Unterminated string starting at: line 1 column 15 (char 14)
+2024-07-22 23:57:52,990 - INFO - 127.0.0.1 - - [22/Jul/2024 23:57:52] "[31m[1mGET /user?admin_name=komal HTTP/1.1[0m" 403 -
+2024-07-22 23:58:03,470 - INFO - Decorator Function Entered
+2024-07-22 23:58:03,470 - INFO - Authenticating user 'komal'
+2024-07-22 23:58:03,470 - INFO - -----------GET Single User METHOD Entered----------------
+
+2024-07-22 23:58:03,471 - WARNING - Missing "mobile", "employee_id", or "name" keys in record
+2024-07-22 23:58:07,596 - DEBUG - Email sent for missing keys in record by 'komal'
+2024-07-22 23:58:07,596 - INFO - -----------------GET Single User METHOD Ended-----------------
+
+2024-07-22 23:58:07,597 - INFO - 127.0.0.1 - - [22/Jul/2024 23:58:07] "[31m[1mGET /user?admin_name=komal HTTP/1.1[0m" 403 -
+2024-07-23 00:00:26,335 - INFO - Decorator Function Entered
+2024-07-23 00:00:26,335 - ERROR - Exception in authentication decorator: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2024-07-23 00:00:26,335 - INFO - 127.0.0.1 - - [23/Jul/2024 00:00:26] "[31m[1mGET /user?admin_name=komal HTTP/1.1[0m" 403 -
+2024-07-23 00:00:34,228 - INFO - Decorator Function Entered
+2024-07-23 00:00:34,228 - ERROR - Exception in authentication decorator: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2024-07-23 00:00:34,228 - INFO - 127.0.0.1 - - [23/Jul/2024 00:00:34] "[31m[1mGET /user HTTP/1.1[0m" 403 -
+2024-07-23 00:02:46,745 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:02:46,846 - INFO -  * Restarting with stat
+2024-07-23 00:02:47,524 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-23 00:02:47,524 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-23 00:02:47,524 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:02:47,532 - WARNING -  * Debugger is active!
+2024-07-23 00:02:47,543 - INFO -  * Debugger PIN: 126-543-131
+2024-07-23 00:02:48,589 - INFO - Decorator Function Entered
+2024-07-23 00:02:48,589 - ERROR - Exception in authentication decorator: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2024-07-23 00:02:48,590 - INFO - 127.0.0.1 - - [23/Jul/2024 00:02:48] "[31m[1mGET /user HTTP/1.1[0m" 403 -
+2024-07-23 00:03:08,236 - INFO - Decorator Function Entered
+2024-07-23 00:03:08,237 - INFO - Authenticating user 'komal'
+2024-07-23 00:03:08,237 - INFO - -----------GET Single User METHOD Entered----------------
+
+2024-07-23 00:03:08,237 - WARNING - Missing "mobile", "employee_id", or "name" keys in record
+2024-07-23 00:03:12,274 - DEBUG - Email sent for missing keys in record by 'komal'
+2024-07-23 00:03:12,275 - INFO - -----------------GET Single User METHOD Ended-----------------
+
+2024-07-23 00:03:12,276 - INFO - 127.0.0.1 - - [23/Jul/2024 00:03:12] "[31m[1mGET /user HTTP/1.1[0m" 403 -
+2024-07-23 00:06:00,073 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:06:00,141 - INFO -  * Restarting with stat
+2024-07-23 00:06:00,551 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-23 00:06:00,552 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-23 00:06:00,552 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:06:00,559 - WARNING -  * Debugger is active!
+2024-07-23 00:06:00,566 - INFO -  * Debugger PIN: 126-543-131
+2024-07-23 00:06:07,068 - INFO - Decorator Function Entered
+2024-07-23 00:06:07,068 - ERROR - Exception in authentication decorator: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2024-07-23 00:06:07,069 - INFO - 127.0.0.1 - - [23/Jul/2024 00:06:07] "[31m[1mGET /users HTTP/1.1[0m" 403 -
+2024-07-23 00:06:11,770 - INFO - Decorator Function Entered
+2024-07-23 00:06:11,771 - INFO - Authenticating user 'komal'
+2024-07-23 00:06:11,771 - INFO - -----------GET All User Details METHOD Entered  --------- 
+
+2024-07-23 00:06:11,771 - DEBUG - komal found in DATA['admins'] list
+2024-07-23 00:06:11,771 - INFO - User details found: komal
+2024-07-23 00:06:11,771 - DEBUG - All User details are  -->> [{'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}, {'mobile': 915421215452, 'name': 'Komal', 'company': 'APPLE', 'employee_id': 'EMP002', 'password': 'komal@0529', 'isadmin': True}, {'mobile': 913020022100, 'name': 'dinesh', 'company': 'MICROSOFT', 'employee_id': 'EMP003', 'password': 'mahesh@123', 'isadmin': False}, {'mobile': 910000000000, 'name': 'kmahesh', 'company': 'WIPRO', 'employee_id': 'EMP004', 'password': 'rajesh@54', 'isadmin': False}, {'mobile': 914111111111, 'name': 'Suresh', 'company': 'MIND TREE', 'employee_id': 'EMP005', 'password': 'suresh@4575', 'isadmin': False}]
+2024-07-23 00:06:15,472 - DEBUG - Email sent for admin access by 'komal'
+2024-07-23 00:06:15,473 - INFO - -----------------GET All User Details METHOD Ended-----------------
+
+2024-07-23 00:06:15,473 - INFO - 127.0.0.1 - - [23/Jul/2024 00:06:15] "GET /users HTTP/1.1" 200 -
+2024-07-23 00:07:51,716 - INFO - Decorator Function Entered
+2024-07-23 00:07:51,718 - INFO - Authenticating user 'komal'
+2024-07-23 00:07:51,718 - INFO - -----------GET All User Details METHOD Entered  --------- 
+
+2024-07-23 00:07:51,718 - DEBUG - komal found in DATA['admins'] list
+2024-07-23 00:07:51,718 - INFO - User details found: komal
+2024-07-23 00:07:51,718 - DEBUG - All User details are  -->> [{'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}, {'mobile': 915421215452, 'name': 'Komal', 'company': 'APPLE', 'employee_id': 'EMP002', 'password': 'komal@0529', 'isadmin': True}, {'mobile': 913020022100, 'name': 'dinesh', 'company': 'MICROSOFT', 'employee_id': 'EMP003', 'password': 'mahesh@123', 'isadmin': False}, {'mobile': 910000000000, 'name': 'kmahesh', 'company': 'WIPRO', 'employee_id': 'EMP004', 'password': 'rajesh@54', 'isadmin': False}, {'mobile': 914111111111, 'name': 'Suresh', 'company': 'MIND TREE', 'employee_id': 'EMP005', 'password': 'suresh@4575', 'isadmin': False}]
+2024-07-23 00:07:54,929 - DEBUG - Email sent for admin access by 'komal'
+2024-07-23 00:07:54,929 - INFO - -----------------GET All User Details METHOD Ended-----------------
+
+2024-07-23 00:07:54,932 - INFO - 127.0.0.1 - - [23/Jul/2024 00:07:54] "GET /users HTTP/1.1" 200 -
+2024-07-23 00:10:20,004 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:10:20,124 - INFO -  * Restarting with stat
+2024-07-23 00:10:20,762 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-23 00:10:20,763 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-23 00:10:20,763 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:10:20,771 - WARNING -  * Debugger is active!
+2024-07-23 00:10:20,778 - INFO -  * Debugger PIN: 126-543-131
+2024-07-23 00:11:04,625 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:11:04,783 - INFO -  * Restarting with stat
+2024-07-23 00:11:05,512 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-23 00:11:05,512 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-23 00:11:05,512 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:11:05,519 - WARNING -  * Debugger is active!
+2024-07-23 00:11:05,526 - INFO -  * Debugger PIN: 126-543-131
+2024-07-23 00:11:20,174 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:11:20,355 - INFO -  * Restarting with stat
+2024-07-23 00:11:20,910 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-23 00:11:20,910 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-23 00:11:20,910 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:11:20,919 - WARNING -  * Debugger is active!
+2024-07-23 00:11:20,927 - INFO -  * Debugger PIN: 126-543-131
+2024-07-23 00:11:21,473 - INFO - Decorator Function Entered
+2024-07-23 00:11:21,473 - INFO - Authenticating user 'komal'
+2024-07-23 00:11:21,473 - INFO - -----------GET All User Details METHOD Entered  --------- 
+
+2024-07-23 00:11:21,474 - DEBUG - komal found in DATA['admins'] list
+2024-07-23 00:11:21,474 - INFO - User details found: komal
+2024-07-23 00:11:21,474 - DEBUG - All User details are  -->> [{'mobile': 914234234245, 'name': 'kmakala', 'company': 'KXN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False}, {'mobile': 915421215452, 'name': 'Komal', 'company': 'APPLE', 'employee_id': 'EMP002', 'password': 'komal@0529', 'isadmin': True}, {'mobile': 913020022100, 'name': 'dinesh', 'company': 'MICROSOFT', 'employee_id': 'EMP003', 'password': 'mahesh@123', 'isadmin': False}, {'mobile': 910000000000, 'name': 'kmahesh', 'company': 'WIPRO', 'employee_id': 'EMP004', 'password': 'rajesh@54', 'isadmin': False}, {'mobile': 914111111111, 'name': 'Suresh', 'company': 'MIND TREE', 'employee_id': 'EMP005', 'password': 'suresh@4575', 'isadmin': False}]
+2024-07-23 00:11:24,829 - DEBUG - Email sent for admin access by 'komal'
+2024-07-23 00:11:24,830 - INFO - -----------------GET All User Details METHOD Ended-----------------
+
+2024-07-23 00:11:24,831 - INFO - 127.0.0.1 - - [23/Jul/2024 00:11:24] "GET /users HTTP/1.1" 200 -
+2024-07-23 00:14:21,530 - INFO - Decorator Function Entered
+2024-07-23 00:14:21,531 - INFO - Authenticating user 'komal'
+2024-07-23 00:14:21,531 - ERROR - Unexpected error in handle_user: patch_user_details() missing 1 required positional argument: 'record'
+2024-07-23 00:14:21,532 - INFO - 127.0.0.1 - - [23/Jul/2024 00:14:21] "[35m[1mPATCH /user HTTP/1.1[0m" 500 -
+2024-07-23 00:14:34,669 - INFO - Decorator Function Entered
+2024-07-23 00:14:34,669 - INFO - Authenticating user 'komal'
+2024-07-23 00:14:34,669 - ERROR - Unexpected error in handle_user: patch_user_details() missing 1 required positional argument: 'record'
+2024-07-23 00:14:34,670 - INFO - 127.0.0.1 - - [23/Jul/2024 00:14:34] "[35m[1mPATCH /user HTTP/1.1[0m" 500 -
+2024-07-23 00:16:11,114 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:16:11,223 - INFO -  * Restarting with stat
+2024-07-23 00:16:11,751 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-23 00:16:11,751 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-23 00:16:11,751 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:16:11,759 - WARNING -  * Debugger is active!
+2024-07-23 00:16:11,766 - INFO -  * Debugger PIN: 126-543-131
+2024-07-23 00:16:25,614 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:16:25,671 - INFO -  * Restarting with stat
+2024-07-23 00:16:26,257 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-23 00:16:26,257 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-23 00:16:26,257 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:16:26,267 - WARNING -  * Debugger is active!
+2024-07-23 00:16:26,273 - INFO -  * Debugger PIN: 126-543-131
+2024-07-23 00:16:38,950 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:16:39,024 - INFO -  * Restarting with stat
+2024-07-23 00:16:39,572 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-23 00:16:39,572 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-23 00:16:39,572 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:16:39,581 - WARNING -  * Debugger is active!
+2024-07-23 00:16:39,589 - INFO -  * Debugger PIN: 126-543-131
+2024-07-23 00:17:56,095 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:17:56,189 - INFO -  * Restarting with stat
+2024-07-23 00:17:56,687 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-23 00:17:56,687 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-23 00:17:56,687 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:17:56,701 - WARNING -  * Debugger is active!
+2024-07-23 00:17:56,711 - INFO -  * Debugger PIN: 126-543-131
+2024-07-23 00:18:14,767 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:18:14,834 - INFO -  * Restarting with stat
+2024-07-23 00:18:15,269 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-23 00:18:15,269 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-23 00:18:15,269 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:18:15,277 - WARNING -  * Debugger is active!
+2024-07-23 00:18:15,284 - INFO -  * Debugger PIN: 126-543-131
+2024-07-23 00:19:30,314 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:19:30,391 - INFO -  * Restarting with stat
+2024-07-23 00:19:30,983 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-23 00:19:30,983 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-23 00:19:30,983 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:19:30,995 - WARNING -  * Debugger is active!
+2024-07-23 00:19:31,008 - INFO -  * Debugger PIN: 126-543-131
+2024-07-23 00:19:31,861 - INFO - Decorator Function Entered
+2024-07-23 00:19:31,862 - INFO - Authenticating user 'komal'
+2024-07-23 00:19:31,863 - INFO - ----------------PATCH METHOD Entered---------------- 
+
+2024-07-23 00:19:31,864 - DEBUG - komal found in DATA['admins'] list
+2024-07-23 00:19:31,864 - ERROR - Missing 'id' in record for update
+2024-07-23 00:19:31,864 - INFO - -----------------PATCH User Details METHOD Ended-----------------
+
+2024-07-23 00:19:31,865 - INFO - 127.0.0.1 - - [23/Jul/2024 00:19:31] "[31m[1mPATCH /user HTTP/1.1[0m" 400 -
+2024-07-23 00:21:27,191 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:21:27,272 - INFO -  * Restarting with stat
+2024-07-23 00:21:27,992 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-23 00:21:27,992 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-23 00:21:27,992 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:21:28,005 - WARNING -  * Debugger is active!
+2024-07-23 00:21:28,013 - INFO -  * Debugger PIN: 126-543-131
+2024-07-23 00:21:29,097 - INFO - Decorator Function Entered
+2024-07-23 00:21:29,097 - INFO - Authenticating user 'komal'
+2024-07-23 00:21:29,099 - INFO - ----------------PATCH METHOD Entered---------------- 
+
+2024-07-23 00:21:29,099 - DEBUG - komal found in DATA['admins'] list
+2024-07-23 00:21:29,099 - INFO - User details updated: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KxN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False, 'admin_name': 'komal'}
+2024-07-23 00:21:29,099 - INFO - -----------------PATCH User Details METHOD Ended-----------------
+
+2024-07-23 00:21:29,099 - INFO - 127.0.0.1 - - [23/Jul/2024 00:21:29] "PATCH /user HTTP/1.1" 200 -
+2024-07-23 00:22:02,182 - INFO - Decorator Function Entered
+2024-07-23 00:22:02,182 - INFO - Authenticating user 'komal'
+2024-07-23 00:22:02,182 - INFO - ----------------PATCH METHOD Entered---------------- 
+
+2024-07-23 00:22:02,182 - DEBUG - komal found in DATA['admins'] list
+2024-07-23 00:22:02,183 - INFO - User details updated: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KxN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False, 'admin_name': 'komal'}
+2024-07-23 00:22:02,183 - INFO - -----------------PATCH User Details METHOD Ended-----------------
+
+2024-07-23 00:22:02,183 - INFO - 127.0.0.1 - - [23/Jul/2024 00:22:02] "PATCH /user HTTP/1.1" 200 -
+2024-07-23 00:24:34,470 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:24:34,599 - INFO -  * Restarting with stat
+2024-07-23 00:24:35,309 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-23 00:24:35,309 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-23 00:24:35,309 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:24:35,319 - WARNING -  * Debugger is active!
+2024-07-23 00:24:35,328 - INFO -  * Debugger PIN: 126-543-131
+2024-07-23 00:24:35,977 - INFO - Decorator Function Entered
+2024-07-23 00:24:35,977 - INFO - Authenticating user 'komal'
+2024-07-23 00:24:35,977 - INFO - ----------------PATCH METHOD Entered---------------- 
+
+2024-07-23 00:24:35,977 - DEBUG - komal found in DATA['admins'] list
+2024-07-23 00:24:35,977 - DEBUG - User details updated: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KxN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False, 'admin_name': 'komal'}
+2024-07-23 00:24:39,521 - DEBUG - Email sent for Admin 'komal' attempting user update modifications
+2024-07-23 00:24:39,522 - INFO - -----------------PATCH User Details METHOD Ended-----------------
+
+2024-07-23 00:24:39,524 - INFO - 127.0.0.1 - - [23/Jul/2024 00:24:39] "PATCH /user HTTP/1.1" 200 -
+2024-07-23 00:25:12,986 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:25:13,066 - INFO -  * Restarting with stat
+2024-07-23 00:25:13,721 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-23 00:25:13,721 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-23 00:25:13,721 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:25:13,732 - WARNING -  * Debugger is active!
+2024-07-23 00:25:13,739 - INFO -  * Debugger PIN: 126-543-131
+2024-07-23 00:25:13,769 - INFO - Decorator Function Entered
+2024-07-23 00:25:13,770 - INFO - Authenticating user 'komal'
+2024-07-23 00:25:13,770 - INFO - ----------------PATCH METHOD Entered---------------- 
+
+2024-07-23 00:25:13,770 - DEBUG - komal found in DATA['admins'] list
+2024-07-23 00:25:13,771 - DEBUG - User details updated: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KxN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False, 'admin_name': 'komal'}
+2024-07-23 00:25:17,144 - DEBUG - Email sent for Admin 'komal' attempting user {'admin_name': 'komal', 'name': 'kmakala', 'mobile': 914234234245, 'employee_id': 'EMP001', 'company': 'KxN'}update modifications
+2024-07-23 00:25:17,146 - INFO - -----------------PATCH User Details METHOD Ended-----------------
+
+2024-07-23 00:25:17,147 - INFO - 127.0.0.1 - - [23/Jul/2024 00:25:17] "PATCH /user HTTP/1.1" 200 -
+2024-07-23 00:25:59,705 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:25:59,851 - INFO -  * Restarting with stat
+2024-07-23 00:26:00,733 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-23 00:26:00,734 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-23 00:26:00,734 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:26:00,750 - WARNING -  * Debugger is active!
+2024-07-23 00:26:00,764 - INFO -  * Debugger PIN: 126-543-131
+2024-07-23 00:26:01,099 - INFO - Decorator Function Entered
+2024-07-23 00:26:01,100 - INFO - Authenticating user 'komal'
+2024-07-23 00:26:01,100 - INFO - ----------------PATCH METHOD Entered---------------- 
+
+2024-07-23 00:26:01,100 - DEBUG - komal found in DATA['admins'] list
+2024-07-23 00:26:01,100 - DEBUG - User details updated: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KxN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False, 'admin_name': 'komal'}
+2024-07-23 00:26:05,195 - DEBUG - Email sent for Admin 'komal' attempting user {'admin_name': 'komal', 'name': 'kmakala', 'mobile': 914234234245, 'employee_id': 'EMP001', 'company': 'KxN'}update modifications
+2024-07-23 00:26:05,197 - INFO - -----------------PATCH User Details METHOD Ended-----------------
+
+2024-07-23 00:26:05,198 - INFO - 127.0.0.1 - - [23/Jul/2024 00:26:05] "PATCH /user HTTP/1.1" 200 -
+2024-07-23 00:28:51,937 - INFO - Decorator Function Entered
+2024-07-23 00:28:51,937 - INFO - Authenticating user 'komal'
+2024-07-23 00:28:51,937 - INFO - -----------------Delete User Details METHOD Entered----------------- 
+
+2024-07-23 00:28:51,937 - INFO - ------is valid mobile function entered------
+2024-07-23 00:28:51,937 - DEBUG - Validating mobile number: 914234234245
+2024-07-23 00:28:51,937 - DEBUG - Mobile number 914234234245 is valid
+2024-07-23 00:28:51,937 - INFO - ------is valid mobile function ended------
+2024-07-23 00:28:51,937 - INFO - Decorator Function Entered
+2024-07-23 00:28:51,937 - INFO - Authenticating user 'komal'
+2024-07-23 00:28:51,937 - ERROR - Exception in authentication decorator: admin_operations() takes 1 positional argument but 2 were given
+2024-07-23 00:28:51,938 - INFO - Delete user details function started for komal
+2024-07-23 00:28:51,938 - DEBUG - Comparing record: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KxN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False, 'admin_name': 'komal'}
+2024-07-23 00:28:51,938 - DEBUG - Comparing mobile: 914234234245 (type: <class 'int'>) with 914234234245 (type: <class 'int'>)
+2024-07-23 00:28:51,938 - DEBUG - Comparing employee_id: EMP001 (type: <class 'str'>) with EMP001 (type: <class 'str'>)
+2024-07-23 00:28:55,888 - DEBUG - Email sent for admin delete access by 'komal'
+2024-07-23 00:28:55,889 - INFO - User deleted successfully: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KxN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False, 'admin_name': 'komal'}
+2024-07-23 00:28:55,889 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:28:55,890 - INFO - 127.0.0.1 - - [23/Jul/2024 00:28:55] "DELETE /user HTTP/1.1" 200 -
+2024-07-23 00:35:07,161 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:35:07,208 - INFO -  * Restarting with stat
+2024-07-23 00:35:07,700 - INFO - ----------------------New Record function Ended---------------------------
+
+2024-07-23 00:35:07,700 - INFO - -----------------GET All User Details METHOD Ended----------------- 
+
+2024-07-23 00:35:07,701 - INFO - -----------------Delete User Details METHOD Ended----------------- 
+
+2024-07-23 00:35:07,709 - WARNING -  * Debugger is active!
+2024-07-23 00:35:07,718 - INFO -  * Debugger PIN: 126-543-131
+2024-07-23 00:35:14,920 - INFO - Decorator Function Entered
+2024-07-23 00:35:14,921 - INFO - Authenticating user 'komal'
+2024-07-23 00:35:14,921 - INFO - ----------------PATCH METHOD Entered---------------- 
+
+2024-07-23 00:35:14,921 - DEBUG - komal found in DATA['admins'] list
+2024-07-23 00:35:14,921 - DEBUG - User details updated: {'mobile': 914234234245, 'name': 'kmakala', 'company': 'KxN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False, 'admin_name': 'komal'}
+2024-07-23 00:35:18,248 - DEBUG - Email sent for Admin 'komal' attempting user {'admin_name': 'komal', 'name': 'kmakala', 'mobile': 914234234245, 'employee_id': 'EMP001', 'company': 'KxN'}update modifications
+2024-07-23 00:35:18,249 - INFO - -----------------PATCH User Details METHOD Ended-----------------
+
+2024-07-23 00:35:18,249 - INFO - 127.0.0.1 - - [23/Jul/2024 00:35:18] "PATCH /user HTTP/1.1" 200 -
+2024-07-23 00:37:02,309 - INFO - Decorator Function Entered
+2024-07-23 00:37:02,309 - INFO - Authenticating user 'komal'
+2024-07-23 00:37:02,309 - INFO - ----------------PATCH METHOD Entered---------------- 
+
+2024-07-23 00:37:02,309 - DEBUG - komal found in DATA['admins'] list
+2024-07-23 00:37:02,309 - DEBUG - User details updated: {'mobile': '1234569142342342457890', 'name': 'kmakala', 'company': 'KxN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False, 'admin_name': 'komal', 'new_password': 'kumar123'}
+2024-07-23 00:37:05,427 - DEBUG - Email sent for Admin 'komal' attempting user {'admin_name': 'komal', 'mobile': '1234569142342342457890', 'employee_id': 'EMP001', 'new_password': 'kumar123'}update modifications
+2024-07-23 00:37:05,428 - INFO - -----------------PATCH User Details METHOD Ended-----------------
+
+2024-07-23 00:37:05,429 - INFO - 127.0.0.1 - - [23/Jul/2024 00:37:05] "PATCH /user HTTP/1.1" 200 -
+2024-07-23 00:37:45,597 - INFO - Decorator Function Entered
+2024-07-23 00:37:45,597 - INFO - Authenticating user 'komal'
+2024-07-23 00:37:45,597 - INFO - ----------------PATCH METHOD Entered---------------- 
+
+2024-07-23 00:37:45,597 - DEBUG - komal found in DATA['admins'] list
+2024-07-23 00:37:45,597 - DEBUG - User details updated: {'mobile': '914234234245', 'name': 'kmakala', 'company': 'KxN', 'employee_id': 'EMP001', 'password': 'kumar@2929', 'isadmin': False, 'admin_name': 'komal', 'new_password': 'kumar123'}
+2024-07-23 00:37:49,016 - DEBUG - Email sent for Admin 'komal' attempting user {'admin_name': 'komal', 'mobile': '914234234245', 'employee_id': 'EMP001', 'new_password': 'kumar123'}update modifications
+2024-07-23 00:37:49,017 - INFO - -----------------PATCH User Details METHOD Ended-----------------
+
+2024-07-23 00:37:49,018 - INFO - 127.0.0.1 - - [23/Jul/2024 00:37:49] "PATCH /user HTTP/1.1" 200 -
+2024-07-23 00:39:01,676 - INFO - Decorator Function Entered
+2024-07-23 00:39:01,676 - INFO - Authenticating user 'komal'
+2024-07-23 00:39:01,676 - INFO - --------------New Record function Entered  -----------------
+
+2024-07-23 00:39:01,676 - INFO - Decorator Function Entered
+2024-07-23 00:39:01,676 - INFO - Authenticating user 'komal'
+2024-07-23 00:39:01,676 - ERROR - Exception in authentication decorator: admin_operations() takes 1 positional argument but 2 were given
+2024-07-23 00:39:01,676 - DEBUG -  mobile number is extracted - 914234234245
+2024-07-23 00:39:01,676 - DEBUG - Employee ID is extracted - EMP001
+2024-07-23 00:39:01,676 - INFO -  ------is valid employee ID function entered------
+
+2024-07-23 00:39:01,676 - DEBUG - Employee ID EMP001 is valid.
+2024-07-23 00:39:04,998 - DEBUG - Email has been sent to the users 
+2024-07-23 00:39:04,998 - DEBUG - Record inserted successfully. New record added to AVAILABLE_RECORDS: [914234234245, 915421215452, 913020022100, 910000000000, 914111111111, '914234234245']
+2024-07-23 00:39:04,998 - INFO - Record successfully inserted using POST METHOD: {'admin_name': 'komal', 'mobile': '914234234245', 'employee_id': 'EMP001', 'new_password': 'kumar123'}
+2024-07-23 00:39:04,998 - INFO - 127.0.0.1 - - [23/Jul/2024 00:39:04] "POST /user HTTP/1.1" 200 -
+2024-07-23 00:41:59,690 - INFO - Decorator Function Entered
+2024-07-23 00:41:59,690 - INFO - Authenticating user 'komal'
+2024-07-23 00:41:59,690 - INFO - -----------Reset User Password METHOD Entered ---------
+2024-07-23 00:41:59,690 - DEBUG - komal found in DATA['admins'] list
+2024-07-23 00:41:59,691 - DEBUG - User mobile: 914234234245, Employee ID: EMP001
+2024-07-23 00:41:59,691 - INFO - Password reset successful for user with mobile '914234234245' and employee ID 'EMP001'.
+2024-07-23 00:42:03,081 - INFO - Reset User Password METHOD Ended
+2024-07-23 00:42:03,081 - INFO - 127.0.0.1 - - [23/Jul/2024 00:42:03] "PATCH /user?reset_password=True HTTP/1.1" 200 -
+2024-07-23 00:45:33,296 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\profile_management_apis\\apps\\app.py', reloading
+2024-07-23 00:45:33,345 - INFO -  * Restarting with stat
